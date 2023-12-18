@@ -2,7 +2,7 @@
 <h3 align="center">I am currently pursuing engineering in Information Technology.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
  -->
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning Backend development & Machine learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
