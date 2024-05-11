@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isha Khutale</h1>
-<h3 align="center">I am currently pursuing engineering in Information Technology.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
- -->
-- 🌱 I’m currently learning Backend development & Machine learning
-
+<h3 align="center">A Full-stack Web Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Isha-3107&label=Profile%20views&color=0e75b6&style=flat" alt="Isha-3107" /> </p>
+🌱 I’m currently learning Machine learning  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isha khutale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isha khutale" height="30" width="40" /></a>
+ 
 <!-- <a href="https://instagram.com/isha_khutale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isha_khutale" height="30" width="40" /></a> -->
 </p>
 
